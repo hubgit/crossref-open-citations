@@ -1,0 +1,14 @@
+{
+  "name": "crossref-open-citations",
+  "version": "1.0.0",
+  "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "main": "index.js",
+  "files": ["src"],
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "input-stream": "^0.2.0",
+    "output-stream": "^0.2.0",
+    "rest-collection-stream": "^0.0.1"
+  }
+}
